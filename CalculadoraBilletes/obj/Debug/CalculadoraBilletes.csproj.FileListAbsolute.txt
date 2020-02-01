@@ -1,0 +1,9 @@
+C:\www\CalculadoraBilletes\CalculadoraBilletes\bin\Debug\CalculadoraBilletes.exe.config
+C:\www\CalculadoraBilletes\CalculadoraBilletes\bin\Debug\CalculadoraBilletes.exe
+C:\www\CalculadoraBilletes\CalculadoraBilletes\bin\Debug\CalculadoraBilletes.pdb
+C:\www\CalculadoraBilletes\CalculadoraBilletes\obj\Debug\CalculadoraBilletes.csprojResolveAssemblyReference.cache
+C:\www\CalculadoraBilletes\CalculadoraBilletes\obj\Debug\CalculadoraBilletes.Properties.Resources.resources
+C:\www\CalculadoraBilletes\CalculadoraBilletes\obj\Debug\CalculadoraBilletes.csproj.GenerateResource.Cache
+C:\www\CalculadoraBilletes\CalculadoraBilletes\obj\Debug\CalculadoraBilletes.exe
+C:\www\CalculadoraBilletes\CalculadoraBilletes\obj\Debug\CalculadoraBilletes.pdb
+C:\www\CalculadoraBilletes\CalculadoraBilletes\obj\Debug\CalculadoraBilletes.Form1.resources
